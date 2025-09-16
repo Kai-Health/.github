@@ -1,10 +1,10 @@
 <h3 align="center">
   <img
-    src="./images/org-banner-dark.png#gh-dark-mode-only"
+    src="https://raw.githubusercontent.com/Kai-Health/.github/refs/heads/main/profile/images/org-banner-dark.png#gh-dark-mode-only"
     height="80"
   />
   <img
-    src="./images/org-banner-light.png#gh-light-mode-only"
+    src="https://raw.githubusercontent.com/Kai-Health/.github/refs/heads/main/profile/images/org-banner-light.png#gh-light-mode-only"
     height="80"
   />
 </h3>
@@ -14,7 +14,7 @@ Meet the first Autonomous Performance Improvement system that facilitates data-d
 
 <h3 align="center">
   <img
-    src="./images/org-hero.png"
+    src="https://raw.githubusercontent.com/Kai-Health/.github/refs/heads/main/profile/images/org-hero.png"
     width="510"
   />
 </h3>
